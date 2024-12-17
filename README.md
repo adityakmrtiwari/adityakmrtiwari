@@ -1,5 +1,8 @@
 <h1 align="center">Hi I am Aditya , let's connect !</h1>
-<h3 align="center">A passionate frontend developer from India .</h3>
+<h3 align="center">Engineer by day, problem solver by night. 🌙</h3>
+
+
+<p align="center">Pursuing B.Tech from Kalinga Institute of Industrial Technology, Bhubaneswar, Odisha</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadiitiwari&label=Profile%20views&color=0e75b6&style=flat" alt="aadiitiwari" /> </p>
 
