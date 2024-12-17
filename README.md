@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="153" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
 <h1 align="center">Hi I am Aditya , let's connect !</h1>
 <h3 align="center">Engineer by day, problem solver by night. 🌙</h3>
 
