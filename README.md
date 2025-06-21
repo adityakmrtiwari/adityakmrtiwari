@@ -3,84 +3,114 @@
 </div>
 
 <h1 align="center">Hi, I'm Aditya — Let's Connect!</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI/ML Explorer | Cloud Enthusiast</h3>
 <h3 align="center">Engineer by day, problem solver by night 🌙</h3>
 
+
 <p align="center">
-  🎓 Pursuing B.Tech at <strong>Kalinga Institute of Industrial Technology</strong>, Bhubaneswar, Odisha  
+  🎓 B.Tech CSE @ <strong>KIIT University</strong>, Bhubaneswar<br/>
+  💡 Passionate about building impactful solutions & solving real-world problems
 </p>
 
 <p align="center">
-  <a href="https://adityakmrtiwari-github-io.vercel.app/"><strong>🌐 View My Portfolio</strong></a> &nbsp;|&nbsp;
-  <a href="https://drive.google.com/file/d/1oJibjasCDDtsp2dpJaZDIxpvj6giXfbw/view?usp=sharing" target="_blank"><strong>📄 My Resume</strong></a> &nbsp;|&nbsp;
+  <a href="https://adityakmrtiwari-github-io.vercel.app/"><strong>🌐 Portfolio</strong></a> &nbsp;|&nbsp;
+  <a href="https://drive.google.com/file/d/1oJibjasCDDtsp2dpJaZDIxpvj6giXfbw/view?usp=sharing" target="_blank"><strong>📄 Resume</strong></a> &nbsp;|&nbsp;
   📫 <strong>Email:</strong> adityakmrtiwari@gmail.com
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadiitiwari&label=Profile%20views&color=0e75b6&style=flat" alt="aadiitiwari" />
+  <img src="https://komarev.com/ghpvc/?username=aadiitiwari&label=Profile%20views&color=gray&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
+## 🧠 About Me
+
+- 🎓 B.Tech in **Computer Science**, KIIT (2022–2026)
+- 🧩 Strong in **DSA, OS, DBMS, CN & OOPs**
+- 🌱 Exploring **DevOps & Generative AI**
+- 💬 Ask me about `MERN Stack`, `AI/ML`, or `cloud tech`
+- 💼 Actively seeking opportunities in Software Development roles
+- ⚡ Fun fact: I love debugging and making systems efficient!
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
   <a href="https://linkedin.com/in/adityakmrtiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
   <a href="https://instagram.com/adityakmrtiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-  </a>
-  <a href="https://www.codechef.com/users/adityakmrtiwari" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
   </a>
   <a href="https://www.leetcode.com/adityakmrtiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
+    <img src="https://skillicons.dev/icons?i=leetcode" height="35"/>
+  </a>
+  <a href="https://www.codechef.com/users/adityakmrtiwari" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30"/>
   </a>
   <a href="https://www.hackerearth.com/@adityakmrtiwari" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="30"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools I Use
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="35" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="35" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="35" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="35" />
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+### 🌐 Web
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### ☁️ Cloud & Dev Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121013?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakmrtiwari&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakmrtiwari&theme=default" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakmrtiwari&layout=compact" width="40%" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🧑‍💼 Let's Build Something Cool!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakmrtiwari&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+Always up for collaborations, cool side projects, or discussing tech!  
+DM me on [LinkedIn](https://linkedin.com/in/adityakmrtiwari) or drop an email — **adityakmrtiwari@gmail.com**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityakmrtiwari&theme=default" alt="GitHub Streak" />
-</p>
+---
